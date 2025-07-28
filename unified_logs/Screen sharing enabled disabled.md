@@ -58,7 +58,7 @@ Example json output:
   "senderProgramCounter" : 203948,
   "parentActivityIdentifier" : 0
 }
-``` 
+```
 
 
 
